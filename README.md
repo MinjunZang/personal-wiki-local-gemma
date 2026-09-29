@@ -12,7 +12,7 @@ and **search** (original passages, no model).
 | Instructions loaded per mode | [`prompts/wiki-instructions.md`](prompts/wiki-instructions.md) (ask) · [`prompts/persona.md`](prompts/persona.md) (chat) · [`prompts/ingest-*.md`](prompts/) |
 | Four ask-mode evidence cards | [Test 1](evidence/ask/test1-direct.md) · [Test 2](evidence/ask/test2-paraphrased.md) · [Test 3](evidence/ask/test3-two-sources.md) · [Test 4](evidence/ask/test4-unanswerable.md) |
 | Chat / search mode checks | [`evidence/modes/mode-checks.md`](evidence/modes/mode-checks.md) · [chat transcript](evidence/chat/) · [error handling](evidence/modes/error-handling.txt) |
-| Offline demonstration | [terminal log](evidence/offline-run/terminal-log.txt) · [memory samples](evidence/offline-run/memory-samples.txt) · [screen recording](evidence/offline-run/offline-demo.mp4) |
+| Offline demonstration | [terminal log](evidence/offline-run/terminal-log.txt) · [memory samples](evidence/offline-run/memory-samples.txt) · [screen recording (48 MB download)](https://github.com/MinjunZang/personal-wiki-local-gemma/raw/main/evidence/offline-run/offline-demo.mp4) |
 | Test questions (written before building) | [`tests/questions.md`](tests/questions.md) (outside the vault, so retrieval can't find the answer key) |
 | Development logs | [wiki generation & review](docs/wiki-review.md) · [ask/chat/search development](docs/ask-chat-development.md) · [setup notes](docs/setup-notes.md) |
 
@@ -205,7 +205,8 @@ a price claimed only in chat was not used by ask; search returned original passa
   restarts Ollama, then runs help → ingest → check → search → chat → the four ask tests.
 - Output: [`evidence/offline-run/terminal-log.txt`](evidence/offline-run/terminal-log.txt) (starts with
   `Wi-Fi Power (en0): Off` and `curl: (6) Could not resolve host: www.google.com`).
-- **Screen recording:** [`evidence/offline-run/offline-demo.mp4`](evidence/offline-run/offline-demo.mp4)
+- **Screen recording:** [⬇ download / play `offline-demo.mp4` (48 MB)](https://github.com/MinjunZang/personal-wiki-local-gemma/raw/main/evidence/offline-run/offline-demo.mp4)
+  — GitHub can't preview a video this large in the page, so the link downloads it directly.
   (6 min, 720p, compressed from the 318 MB original) — Wi-Fi is switched off on camera, then the script runs
   ingestion, check, search, the chat checks and all four ask tests. The terminal log above is the same run as text.
 
