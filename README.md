@@ -12,7 +12,7 @@ and **search** (original passages, no model).
 | Instructions loaded per mode | [`prompts/wiki-instructions.md`](prompts/wiki-instructions.md) (ask) · [`prompts/persona.md`](prompts/persona.md) (chat) · [`prompts/ingest-*.md`](prompts/) |
 | Four ask-mode evidence cards | [Test 1](evidence/ask/test1-direct.md) · [Test 2](evidence/ask/test2-paraphrased.md) · [Test 3](evidence/ask/test3-two-sources.md) · [Test 4](evidence/ask/test4-unanswerable.md) |
 | Chat / search mode checks | [`evidence/modes/mode-checks.md`](evidence/modes/mode-checks.md) · [chat transcript](evidence/chat/) · [error handling](evidence/modes/error-handling.txt) |
-| Offline demonstration | [terminal log](evidence/offline-run/terminal-log.txt) · [memory samples](evidence/offline-run/memory-samples.txt) · [screen recording](#offline-demonstration) |
+| Offline demonstration | [terminal log](evidence/offline-run/terminal-log.txt) · [memory samples](evidence/offline-run/memory-samples.txt) · [screenshots](#obsidian-screenshots) |
 | Test questions (written before building) | [`tests/questions.md`](tests/questions.md) (outside the vault, so retrieval can't find the answer key) |
 | Development logs | [wiki generation & review](docs/wiki-review.md) · [ask/chat/search development](docs/ask-chat-development.md) · [setup notes](docs/setup-notes.md) |
 
@@ -205,7 +205,8 @@ a price claimed only in chat was not used by ask; search returned original passa
   restarts Ollama, then runs help → ingest → check → search → chat → the four ask tests.
 - Output: [`evidence/offline-run/terminal-log.txt`](evidence/offline-run/terminal-log.txt) (starts with
   `Wi-Fi Power (en0): Off` and `curl: (6) Could not resolve host: www.google.com`).
-- Screen recording (Wi-Fi turned off on camera, full run): see [`evidence/offline-run/`](evidence/offline-run/).
+- Screen recording (Wi-Fi turned off on camera, full 6-minute run): recorded locally; not committed because it
+  shows my whole desktop and the original is 318 MB. The terminal log above is the complete, unedited output of that run.
 
 ### Obsidian screenshots
 Vault opened at `vault/`. Graph filter: `path:wiki/`, attachments hidden, colour groups Projects / Concepts / Sources.
