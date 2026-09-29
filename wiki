@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Launcher for the personal wiki CLI: ./wiki --help
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PYTHONPATH="$DIR${PYTHONPATH:+:$PYTHONPATH}" exec "$DIR/.venv/bin/python" -m wiki_cli.cli "$@"

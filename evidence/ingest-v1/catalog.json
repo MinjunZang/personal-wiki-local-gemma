@@ -1,0 +1,213 @@
+{
+  "sources": {
+    "General Alpha 0928.docx": {
+      "source_id": "src-ga",
+      "title": "General Alpha Finance Advisor Interview",
+      "summary": "This document summarizes findings from interviews regarding the go-to-market strategy for a new energy technology. It advises focusing initial efforts on smaller, portable power solutions and targeting early adopters like universities and government entities. Key risks identified include high adoption barriers in mission-critical sectors and the need for third-party validation to build trust.",
+      "topics": [
+        {
+          "title": "Portable Power Solutions",
+          "category": "Concepts",
+          "description": "The technology is best suited for smaller-scale, portable, or remote power applications rather than immediate large-scale MW deployments."
+        },
+        {
+          "title": "Early Adopter Markets",
+          "category": "Concepts",
+          "description": "Initial market focus should be placed on remote power, industrial process heat, and government-supported pilots."
+        },
+        {
+          "title": "Third-Party Validation",
+          "category": "Concepts",
+          "description": "Building trust requires independent laboratory and engineer verification reports covering reliability and lifespan."
+        },
+        {
+          "title": "Financeable Energy Technology",
+          "category": "Concepts",
+          "description": "This note covers the financial criteria and evidence required for energy technologies to be considered viable by investors and financiers."
+        }
+      ],
+      "sha256": "18cc9024a3d314fc1fb35309152a90f741e985e31818d05d4c55e19c2cdd9df0",
+      "ingested": "2026-09-28"
+    },
+    "DTCS_Lean_Transfer_Customer_Discovery.pptx": {
+      "source_id": "src-dtcs",
+      "title": "Digital Twin Chemical Science",
+      "summary": "This document outlines the concept for DTCS, a digital twin that integrates computational chemistry, spectroscopy simulations, and experimental data with AI optimization. The goal is to help interpret spectra and infer reaction mechanisms to reduce experimental iteration time. The presentation details customer hypotheses across three segments: Big Tech R&D, resource-constrained startups, and raw-material vendors.",
+      "topics": [
+        {
+          "title": "DTCS Product Overview",
+          "category": "Concepts",
+          "description": "This note will cover how DTCS connects various data types to provide faster chemical understanding and guide experimental design."
+        },
+        {
+          "title": "Target Customer Segments",
+          "category": "Concepts",
+          "description": "This note will detail the three primary customer groups—Big Tech, startups, and vendors—and their specific pain points regarding chemical R&D."
+        },
+        {
+          "title": "Chemical R&D Pain Points",
+          "category": "Concepts",
+          "description": "This note will summarize the core challenges in chemical research, such as long characterization cycles and the need for stronger theory-experiment feedback."
+        },
+        {
+          "title": "Customer Discovery Process",
+          "category": "Concepts",
+          "description": "This note will document the methodology for validating hypotheses through customer interviews, focusing on workflow and willingness to pay."
+        }
+      ],
+      "sha256": "966f24f3a6d46ebb14355ce1ecb3e86cc160610d59c757d6d48e274b780d5d24",
+      "ingested": "2026-09-28"
+    },
+    "数字孪生在制造业中的应用与访谈安排_Summary_202609150939_LectMate.doc": {
+      "source_id": "src-dt",
+      "title": "Digital Twin Manufacturing Applications",
+      "summary": "This source discusses the core concept of connecting virtual models with physical manufacturing processes using digital twins to solve issues of siloed experimentation and simulation. It emphasizes that true validation requires returning to the physical world, and the technology is currently focused on chemical processes. The discussion outlines future plans to interview various stakeholders to pinpoint high-value industrial applications.",
+      "topics": [
+        {
+          "title": "Virtual To Physical Connection",
+          "category": "Concepts",
+          "description": "This note will cover the core principle of linking virtual models with physical processes for synchronized operation and mutual calibration."
+        },
+        {
+          "title": "Chemical Process Simulation",
+          "category": "Concepts",
+          "description": "This topic will detail the current focus of the technology on chemical processes, such as surface treatment and electrochemistry."
+        },
+        {
+          "title": "Manufacturing Case Studies",
+          "category": "Concepts",
+          "description": "This note will analyze examples from consumer electronics and semiconductor industries to illustrate the value of early simulation and risk reduction."
+        },
+        {
+          "title": "New Product Development",
+          "category": "Concepts",
+          "description": "This section will explore the potential value of digital twins during the New Product Development phase to minimize resource expenditure."
+        }
+      ],
+      "sha256": "f93290bf434208c565d966e4019d69713def5c6891d54bf7dff6980d19970171",
+      "ingested": "2026-09-28"
+    }
+  },
+  "pages": {
+    "DTCS Product Overview": {
+      "category": "Concepts",
+      "summary": "DTCS connects various data types, including computational chemistry, spectroscopy simulations, and experimental data, to provide faster chemical understanding. This capability helps interpret spectra and infer reaction mechanisms, which can reduce experimental iteration and save on characterization resources. The product aims to guide experimental design by suggesting the next experiment.",
+      "source_ids": [
+        "src-dtcs"
+      ],
+      "path": "wiki/Concepts/DTCS Product Overview.md"
+    },
+    "Target Customer Segments": {
+      "category": "Concepts",
+      "summary": "The three primary customer groups identified are Big Tech, resource-constrained startups, and raw-material vendors, each facing distinct pain points in chemical R&D. These pain points revolve around long experimental cycles, high costs, and the need for faster data interpretation. The goal is to validate the severity of these pain points through customer interviews.",
+      "source_ids": [
+        "src-dtcs"
+      ],
+      "path": "wiki/Concepts/Target Customer Segments.md"
+    },
+    "Chemical R&D Pain Points": {
+      "category": "Concepts",
+      "summary": "Core challenges in chemical research include slow characterization cycles and the need for stronger feedback loops between theory and experiment. Pain points are observed across different customer segments, such as Big Tech R&D and resource-constrained startups. The goal is to improve interpretation speed and guide the next experiment to reduce resource use.",
+      "source_ids": [
+        "src-dtcs"
+      ],
+      "path": "wiki/Concepts/Chemical R&D Pain Points.md"
+    },
+    "Customer Discovery Process": {
+      "category": "Concepts",
+      "summary": "The customer discovery process involves validating hypotheses through interviews focused on pain severity, current workflow, and willingness to pay. The methodology requires understanding the customer's existing process before presenting the product. Key segments include Big Tech R&D, resource-constrained startups, and raw-material vendors.",
+      "source_ids": [
+        "src-dtcs"
+      ],
+      "path": "wiki/Concepts/Customer Discovery Process.md"
+    },
+    "Portable Power Solutions": {
+      "category": "Concepts",
+      "summary": "The technology is best suited for smaller-scale, portable, or remote power applications rather than immediate large-scale MW deployments. Early focus should target early adopters in areas like remote and transportable power, while avoiding large-scale deployments in critical infrastructure initially. Success requires demonstrating value through small-scale pilots and third-party validation.",
+      "source_ids": [
+        "src-ga"
+      ],
+      "path": "wiki/Concepts/Portable Power Solutions.md"
+    },
+    "Early Adopter Markets": {
+      "category": "Concepts",
+      "summary": "Initial market focus should target early adopters in specific sectors like remote power, industrial process heat, and government-supported pilots. These segments are noted as being more willing to participate in innovative or experimental technologies. Targeting these areas allows for smaller-scale validation before tackling larger, more established markets.",
+      "source_ids": [
+        "src-ga"
+      ],
+      "path": "wiki/Concepts/Early Adopter Markets.md"
+    },
+    "Third-Party Validation": {
+      "category": "Concepts",
+      "summary": "Building trust in new technologies requires independent verification to prove reliability and lifespan. Following industry precedents, relying on third-party reports from laboratories and engineers is necessary to build confidence. This validation process helps overcome adoption barriers when competing against established solutions.",
+      "source_ids": [
+        "src-ga"
+      ],
+      "path": "wiki/Concepts/Third-Party Validation.md"
+    },
+    "Financeable Energy Technology": {
+      "category": "Concepts",
+      "summary": "For energy technologies to be considered financeable, investors require transparent, quantified metrics, and demonstrable proof of reliability through real-world data. Early market entry should focus on smaller, flexible applications and target early adopters through phased funding and third-party validation. Key risks include high adoption barriers in critical areas and the need to prove performance against established solutions.",
+      "source_ids": [
+        "src-ga"
+      ],
+      "path": "wiki/Concepts/Financeable Energy Technology.md"
+    },
+    "Virtual To Physical Connection": {
+      "category": "Concepts",
+      "summary": "The core principle involves connecting virtual models with physical processes to achieve synchronized operation and mutual calibration. This approach aims to overcome the traditional separation between simulation, experimentation, and analysis in manufacturing. The ultimate goal is to create a closed loop that supports prediction, in-process adjustment, and post-analysis using real-world validation.",
+      "source_ids": [
+        "src-dt"
+      ],
+      "path": "wiki/Concepts/Virtual To Physical Connection.md"
+    },
+    "Chemical Process Simulation": {
+      "category": "Concepts",
+      "summary": "The technology's current focus is on simulating chemical processes, including areas like surface treatment and electrochemistry. This capability allows for establishing links between chemical reactions and observable properties, such as color. The goal is to connect virtual models with physical manufacturing processes to improve prediction and reduce real-world trial and error costs.",
+      "source_ids": [
+        "src-dt"
+      ],
+      "path": "wiki/Concepts/Chemical Process Simulation.md"
+    },
+    "Manufacturing Case Studies": {
+      "category": "Concepts",
+      "summary": "This note analyzes how digital twin technology can bridge the gap between virtual simulation and physical manufacturing processes across industries like consumer electronics and semiconductors. The core value lies in using simulation to pre-screen optimal solutions, thereby saving time and reducing costly physical trial-and-error. Ultimately, the system's credibility requires continuous calibration against real-world experimental data.",
+      "source_ids": [
+        "src-dt"
+      ],
+      "path": "wiki/Concepts/Manufacturing Case Studies.md"
+    },
+    "New Product Development": {
+      "category": "Concepts",
+      "summary": "Digital twins show potential value during New Product Development (NPD) because this phase involves high resource, labor, and trial-and-error costs. Using digital twins can help screen out suboptimal plans early on, thereby saving time and reducing the cost of failure. This capability is particularly valuable when simulating complex processes before physical testing.",
+      "source_ids": [
+        "src-dt"
+      ],
+      "path": "wiki/Concepts/New Product Development.md"
+    },
+    "Digital Twin Chemical Science": {
+      "category": "Sources",
+      "summary": "This document outlines the concept for DTCS, a digital twin that integrates computational chemistry, spectroscopy simulations, and experimental data with AI optimization. The goal is to help interpret spectra and infer reaction mechanisms to reduce experimental iteration time. The presentation details customer hypotheses across three segments: Big Tech R&D, resource-constrained startups, and raw-material vendors.",
+      "source_ids": [
+        "src-dtcs"
+      ],
+      "path": "wiki/Sources/Digital Twin Chemical Science.md"
+    },
+    "General Alpha Finance Advisor Interview": {
+      "category": "Sources",
+      "summary": "This document summarizes findings from interviews regarding the go-to-market strategy for a new energy technology. It advises focusing initial efforts on smaller, portable power solutions and targeting early adopters like universities and government entities. Key risks identified include high adoption barriers in mission-critical sectors and the need for third-party validation to build trust.",
+      "source_ids": [
+        "src-ga"
+      ],
+      "path": "wiki/Sources/General Alpha Finance Advisor Interview.md"
+    },
+    "Digital Twin Manufacturing Applications": {
+      "category": "Sources",
+      "summary": "This source discusses the core concept of connecting virtual models with physical manufacturing processes using digital twins to solve issues of siloed experimentation and simulation. It emphasizes that true validation requires returning to the physical world, and the technology is currently focused on chemical processes. The discussion outlines future plans to interview various stakeholders to pinpoint high-value industrial applications.",
+      "source_ids": [
+        "src-dt"
+      ],
+      "path": "wiki/Sources/Digital Twin Manufacturing Applications.md"
+    }
+  }
+}

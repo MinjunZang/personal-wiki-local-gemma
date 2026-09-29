@@ -1,0 +1,43 @@
+# Error handling checks — 2026-09-29 09:32
+(first version of this check found a bug: with Ollama stopped, ask printed 'insufficient evidence'
+ instead of a model error. Fixed by checking the model before retrieval; rerun below.)
+
+$ brew services stop ollama
+==> Successfully stopped `ollama` (label: sh.brew.ollama)
+
+$ ./wiki ask "Where is the workshop?"
+error: Cannot reach the local model server at http://localhost:11434 (<urlopen error [Errno 61] Connection refused>).
+Start it with:  brew services start ollama   (or run: ollama serve)
+exit code: 1
+
+$ ./wiki chat
+error: Cannot reach the local model server at http://localhost:11434 (<urlopen error [Errno 61] Connection refused>).
+Start it with:  brew services start ollama   (or run: ollama serve)
+exit code: 1
+
+$ ./wiki search "pilot projects" -k 1 --kind source
+[search | keywords only (BM25) | no language model used]
+note: Embedding model unavailable, using keyword search only. (Cannot reach the local model server at http://localhost:11434 (<urlopen error [Errno 61] Connection refused>).
+Start it with:  brew services start ollama   (or run: ollama serve))
+
+[1] raw/General Alpha 0928.docx — Commercialization (¶23–29)
+    (source passage, bm25 4.063)
+    │ ## Commercialization
+    │ - What would make customers switch from an existing solution?
+
+$ ./wiki ingest ./does-not-exist
+error: /Users/test/Desktop/Berkeley/Berkeley courses /AI agent /HW4/does-not-exist does not exist.
+[ingest | model: gemma4:e4b | local]
+exit code: 1
+
+$ ./wiki ingest ./docs/setup-notes.md   (a file outside vault/raw)
+error: Sources must live in /Users/test/Desktop/Berkeley/Berkeley courses /AI agent /HW4/vault/raw. Copy the file there first, then ingest it.
+[ingest | model: gemma4:e4b | local]
+exit code: 1
+
+$ ./wiki ask "x" --mode online
+error: Only --mode local is implemented. Online mode is an optional extension that this project does not include.
+exit code: 1
+
+$ brew services start ollama
+==> Successfully started `ollama` (label: sh.brew.ollama)

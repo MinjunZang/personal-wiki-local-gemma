@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-28T22:14:33",
+  "model": "gemma4:e4b",
+  "embed_model": "embeddinggemma",
+  "mode": "local",
+  "files": [
+    "DTCS_Lean_Transfer_Customer_Discovery.pptx",
+    "General Alpha 0928.docx",
+    "数字孪生在制造业中的应用与访谈安排_Summary_202609150939_LectMate.doc"
+  ],
+  "regenerated_sources": [
+    "DTCS_Lean_Transfer_Customer_Discovery.pptx",
+    "General Alpha 0928.docx",
+    "数字孪生在制造业中的应用与访谈安排_Summary_202609150939_LectMate.doc"
+  ],
+  "notes_written": 15,
+  "notes_kept_reviewed": 0,
+  "passages_indexed": 86,
+  "seconds_total": 362.3,
+  "model_calls": [
+    {
+      "step": "plan",
+      "file": "DTCS_Lean_Transfer_Customer_Discovery.pptx",
+      "model": "gemma4:e4b",
+      "seconds": 18.48,
+      "prompt_tokens": 1580,
+      "output_tokens": 323
+    },
+    {
+      "step": "plan",
+      "file": "General Alpha 0928.docx",
+      "model": "gemma4:e4b",
+      "seconds": 17.57,
+      "prompt_tokens": 1948,
+      "output_tokens": 299
+    },
+    {
+      "step": "plan",
+      "file": "数字孪生在制造业中的应用与访谈安排_Summary_202609150939_LectMate.doc",
+      "model": "gemma4:e4b",
+      "seconds": 16.47,
+      "prompt_tokens": 1750,
+      "output_tokens": 303
+    },
+    {
+      "step": "note",
+      "title": "Chemical Process Simulation",
+      "model": "gemma4:e4b",
+      "seconds": 21.2,
+      "prompt_tokens": 1730,
+      "output_tokens": 404
+    },
+    {
+      "step": "note",
+      "title": "Chemical R&D Pain Points",
+      "model": "gemma4:e4b",
+      "seconds": 21.29,
+      "prompt_tokens": 1590,
+      "output_tokens": 397
+    },
+    {
+      "step": "note",
+      "title": "Customer Discovery Process",
+      "model": "gemma4:e4b",
+      "seconds": 22.34,
+      "prompt_tokens": 1603,
+      "output_tokens": 423
+    },
+    {
+      "step": "note",
+      "title": "DTCS Product Overview",
+      "model": "gemma4:e4b",
+      "seconds": 19.29,
+      "prompt_tokens": 1403,
+      "output_tokens": 356
+    },
+    {
+      "step": "note",
+      "title": "Early Adopter Markets",
+      "model": "gemma4:e4b",
+      "seconds": 22.37,
+      "prompt_tokens": 1405,
+      "output_tokens": 427
+    },
+    {
+      "step": "note",
+      "title": "Financeable Energy Technology",
+      "model": "gemma4:e4b",
+      "seconds": 25.4,
+      "prompt_tokens": 1511,
+      "output_tokens": 490
+    },
+    {
+      "step": "note",
+      "title": "Manufacturing Case Studies",
+      "model": "gemma4:e4b",
+      "seconds": 27.83,
+      "prompt_tokens": 1730,
+      "output_tokens": 511
+    },
+    {
+      "step": "note",
+      "title": "New Product Development",
+      "model": "gemma4:e4b",
+      "seconds": 22.4,
+      "prompt_tokens": 1729,
+      "output_tokens": 349
+    },
+    {
+      "step": "note",
+      "title": "Portable Power Solutions",
+      "model": "gemma4:e4b",
+      "seconds": 23.33,
+      "prompt_tokens": 1410,
+      "output_tokens": 390
+    },
+    {
+      "step": "note",
+      "title": "Target Customer Segments",
+      "model": "gemma4:e4b",
+      "seconds": 29.19,
+      "prompt_tokens": 1592,
+      "output_tokens": 482
+    },
+    {
+      "step": "note",
+      "title": "Third-Party Validation",
+      "model": "gemma4:e4b",
+      "seconds": 20.33,
+      "prompt_tokens": 1417,
+      "output_tokens": 291
+    },
+    {
+      "step": "note",
+      "title": "Virtual To Physical Connection",
+      "model": "gemma4:e4b",
+      "seconds": 34.6,
+      "prompt_tokens": 1729,
+      "output_tokens": 598
+    }
+  ]
+}

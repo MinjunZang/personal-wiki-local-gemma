@@ -1,0 +1,321 @@
+09:39:28
+System-wide memory free percentage: 64%
+09:39:31
+System-wide memory free percentage: 62%
+09:39:34
+System-wide memory free percentage: 39%
+09:39:37
+gemma4:e4b    c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 31%
+09:39:41
+gemma4:e4b    c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 31%
+09:39:44
+gemma4:e4b    c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 31%
+09:39:47
+gemma4:e4b    c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 31%
+09:39:50
+gemma4:e4b    c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 32%
+09:39:53
+gemma4:e4b    c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 32%
+09:39:56
+gemma4:e4b    c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 32%
+09:39:59
+gemma4:e4b    c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 31%
+09:40:02
+gemma4:e4b    c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 31%
+09:40:05
+gemma4:e4b    c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 33%
+09:40:08
+gemma4:e4b    c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 33%
+09:40:11
+gemma4:e4b    c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 33%
+09:40:14
+gemma4:e4b    c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 33%
+09:40:17
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 29%
+09:40:20
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 30%
+09:40:23
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 30%
+09:40:26
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 31%
+09:40:29
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 31%
+09:40:32
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 31%
+09:40:35
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 31%
+09:40:38
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 31%
+09:40:41
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:40:44
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:40:47
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:40:51
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:40:54
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:40:57
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:41:00
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:41:03
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 33%
+09:41:06
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 33%
+09:41:09
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 33%
+09:41:12
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 33%
+09:41:15
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 33%
+09:41:18
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 33%
+09:41:21
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:41:24
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:41:27
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 34%
+09:41:30
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 34%
+09:41:33
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 34%
+09:41:36
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 34%
+09:41:39
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 34%
+09:41:42
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 33%
+09:41:45
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:41:48
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 30%
+09:41:51
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 32%
+09:41:54
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 32%
+09:41:58
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:42:01
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:42:04
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:42:07
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:42:10
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:42:13
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 33%
+09:42:16
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:42:19
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:42:22
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:42:25
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:42:28
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:42:31
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 33%
+09:42:34
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:42:37
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:42:40
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:42:43
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:42:46
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:42:49
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:42:52
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+System-wide memory free percentage: 32%
+09:42:55
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:42:58
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:43:01
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:43:04
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:43:08
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:43:11
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:43:14
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 30%
+09:43:17
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:43:20
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:43:23
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:43:26
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:43:29
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 32%
+09:43:32
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:43:35
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 29%
+09:43:38
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:43:41
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%
+09:43:44
+gemma4:e4b               c6eb396dbd59    3.2 GB    100% GPU     8192       4 minutes from now    
+embeddinggemma:latest    85462619ee72    679 MB    100% GPU     2048       4 minutes from now    
+System-wide memory free percentage: 31%

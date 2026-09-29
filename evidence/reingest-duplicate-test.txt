@@ -1,0 +1,79 @@
+# Re-ingestion duplicate test — 2026-09-28 22:22
+
+$ find vault/wiki -name "*.md" | sort   (BEFORE)
+vault/wiki/Concepts/Chemical R&D Pain Points.md
+vault/wiki/Concepts/Customer Discovery Interviews.md
+vault/wiki/Concepts/Digital Twins in Manufacturing.md
+vault/wiki/Concepts/Early Adopter Markets.md
+vault/wiki/Concepts/Financeable Energy Technology.md
+vault/wiki/Concepts/Real-World Validation.md
+vault/wiki/Concepts/Target Customer Segments.md
+vault/wiki/Projects/DTCS.md
+vault/wiki/Projects/General Alpha.md
+vault/wiki/Sources/DTCS Customer Discovery Deck.md
+vault/wiki/Sources/Digital Twin Meeting Notes.md
+vault/wiki/Sources/General Alpha Interview Notes.md
+
+$ ./wiki ingest vault/raw
+[ingest | model: gemma4:e4b | local]
+= DTCS_Lean_Transfer_Customer_Discovery.pptx: unchanged and notes exist, skipping (use --force to regenerate)
+= General Alpha 0928.docx: unchanged and notes exist, skipping (use --force to regenerate)
+= 数字孪生在制造业中的应用与访谈安排_Summary_202609150939_LectMate.doc: unchanged and notes exist, skipping (use --force to regenerate)
+Embedding 23 source passages with embeddinggemma ...
+Embedding 50 wiki passages and saving the search index ...
+
+Done in 1.5 s: 0 note(s) written, 0 reviewed note(s) kept, 73 passages indexed.
+Open /Users/test/Desktop/Berkeley/Berkeley courses /AI agent /HW4/vault in Obsidian and start at index.md.
+
+$ ./wiki ingest "vault/raw/General Alpha 0928.docx" --force
+[ingest | model: gemma4:e4b | local]
+~ General Alpha 0928.docx: unchanged, regenerating its notes with the saved titles
+Embedding 23 source passages with embeddinggemma ...
+  writing [[Customer Discovery Interviews]] from 6 passages ...
+    CHECK citation S3 (时间线与实践安排); closest passage is S6 (Slide 2: Expanded Business Focus): The interview focus is on understanding the customer's most 
+    CHECK citation S6 (Slide 2: Expanded Business Focus); closest passage is S4 (Slide 5: Customer Discovery Plan — Next 6 Interviews): The interview goal across all segments is to validate pain s
+    kept reviewed note wiki/Concepts/Customer Discovery Interviews.md (new draft in data/drafts/)
+  writing [[Early Adopter Markets]] from 6 passages ...
+    CHECK citation S2 (Product / Market (¶1–13)); closest passage is S5 (2. Key Risks Identified (¶35–42)): Space applications, hospitals, data centers, and critical in
+    kept reviewed note wiki/Concepts/Early Adopter Markets.md (new draft in data/drafts/)
+  writing [[Financeable Energy Technology]] from 6 passages ...
+    CHECK citation S1 (2. Key Risks Identified (¶35–42)); closest passage is S6 (Validation Metrics (¶30–34)): Reliability must be demonstrated using real-world pilot oper
+    kept reviewed note wiki/Concepts/Financeable Energy Technology.md (new draft in data/drafts/)
+  writing [[General Alpha]] from 6 passages ...
+    kept reviewed note wiki/Projects/General Alpha.md (new draft in data/drafts/)
+  writing [[Real-World Validation]] from 6 passages ...
+    CHECK citation S4 (2. Key Risks Identified (¶35–42)); closest passage is S3 (Validation Metrics (¶30–34)): Reliability, uptime, and lifetime must be demonstrated throu
+    kept reviewed note wiki/Concepts/Real-World Validation.md (new draft in data/drafts/)
+    kept reviewed note wiki/Sources/General Alpha Interview Notes.md (new draft in data/drafts/)
+Embedding 50 wiki passages and saving the search index ...
+
+Done in 92.5 s: 0 note(s) written, 6 reviewed note(s) kept, 73 passages indexed.
+Open /Users/test/Desktop/Berkeley/Berkeley courses /AI agent /HW4/vault in Obsidian and start at index.md.
+
+$ find vault/wiki -name "*.md" | sort   (AFTER)
+vault/wiki/Concepts/Chemical R&D Pain Points.md
+vault/wiki/Concepts/Customer Discovery Interviews.md
+vault/wiki/Concepts/Digital Twins in Manufacturing.md
+vault/wiki/Concepts/Early Adopter Markets.md
+vault/wiki/Concepts/Financeable Energy Technology.md
+vault/wiki/Concepts/Real-World Validation.md
+vault/wiki/Concepts/Target Customer Segments.md
+vault/wiki/Projects/DTCS.md
+vault/wiki/Projects/General Alpha.md
+vault/wiki/Sources/DTCS Customer Discovery Deck.md
+vault/wiki/Sources/Digital Twin Meeting Notes.md
+vault/wiki/Sources/General Alpha Interview Notes.md
+
+note count: 12
+reviewed note contents unchanged: yes
+
+$ ls data/drafts
+Customer Discovery Interviews.md
+Early Adopter Markets.md
+Financeable Energy Technology.md
+General Alpha Interview Notes.md
+General Alpha.md
+Real-World Validation.md
+
+$ ./wiki check
+[check] 0 problem(s) found in /Users/test/Desktop/Berkeley/Berkeley courses /AI agent /HW4/vault

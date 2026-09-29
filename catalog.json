@@ -1,0 +1,198 @@
+{
+  "sources": {
+    "General Alpha 0928.docx": {
+      "source_id": "src-ga",
+      "title": "General Alpha Interview Notes",
+      "summary": "Findings from a customer interview about go-to-market strategy for General Alpha, a compact energy technology startup: product scale, best-fit and deferred markets, commercialization, validation metrics, key risks, and next steps. It also contains draft interview questions for a finance advisor, a commercialization advisor, and the founder of a space-industry startup.",
+      "topics": [
+        {
+          "title": "General Alpha",
+          "category": "Projects",
+          "description": "The General Alpha energy project: recommended product scale, value proposition, key risks, and go-to-market next steps from the interview."
+        },
+        {
+          "title": "Early Adopter Markets",
+          "category": "Concepts",
+          "description": "Which markets are best for early pilots versus which should be deferred until the technology has a track record."
+        },
+        {
+          "title": "Financeable Energy Technology",
+          "category": "Concepts",
+          "description": "What investors and customers need before backing a new energy technology: quantified metrics, phased financing, and risk evidence."
+        },
+        {
+          "title": "Real-World Validation",
+          "category": "Concepts",
+          "description": "Proving a technology in the physical world with third-party test reports, pilot operating data, and experiments rather than models alone."
+        },
+        {
+          "title": "Customer Discovery Interviews",
+          "category": "Concepts",
+          "description": "How the interviews are designed: core questions for advisors and founders, and the rule of learning rather than pitching."
+        }
+      ],
+      "sha256": "18cc9024a3d314fc1fb35309152a90f741e985e31818d05d4c55e19c2cdd9df0",
+      "ingested": "2026-09-29"
+    },
+    "DTCS_Lean_Transfer_Customer_Discovery.pptx": {
+      "source_id": "src-dtcs",
+      "title": "DTCS Customer Discovery Deck",
+      "summary": "A five-slide deck for DTCS (Digital Twin for Chemical Science) presenting the product concept, three hypothesized customer segments and their pain points, a skinny business model canvas, an iteration reflection, and a plan for the next six customer interviews.",
+      "topics": [
+        {
+          "title": "DTCS",
+          "category": "Projects",
+          "description": "The DTCS product: a digital twin that connects computational chemistry, spectroscopy simulation, experimental data, and AI optimization."
+        },
+        {
+          "title": "Target Customer Segments",
+          "category": "Concepts",
+          "description": "The three customer segments DTCS plans to interview and why each was chosen."
+        },
+        {
+          "title": "Chemical R&D Pain Points",
+          "category": "Concepts",
+          "description": "Hypothesized pain points in chemistry and materials R&D: slow characterization, costly lab time, and weak theory-experiment feedback."
+        },
+        {
+          "title": "Customer Discovery Interviews",
+          "category": "Concepts",
+          "description": "The DTCS interview plan: number of interviews, goals, and the principle of not selling during interviews."
+        }
+      ],
+      "sha256": "966f24f3a6d46ebb14355ce1ecb3e86cc160610d59c757d6d48e274b780d5d24",
+      "ingested": "2026-09-28"
+    },
+    "数字孪生在制造业中的应用与访谈安排_Summary_202609150939_LectMate.doc": {
+      "source_id": "src-dt",
+      "title": "Digital Twin Meeting Notes",
+      "summary": "Chinese-language summary of a meeting on applying digital twins in manufacturing: connecting virtual models with physical experiments, case examples from consumer electronics, semiconductors, and injection molding, the current focus on chemical processes, and the plan for upcoming customer interviews.",
+      "topics": [
+        {
+          "title": "Digital Twins in Manufacturing",
+          "category": "Concepts",
+          "description": "What a digital twin does in manufacturing, the case examples discussed, its focus on chemical processes, and its value in new product development."
+        },
+        {
+          "title": "Real-World Validation",
+          "category": "Concepts",
+          "description": "Why model results must be verified and calibrated against real physical experiments."
+        },
+        {
+          "title": "Target Customer Segments",
+          "category": "Concepts",
+          "description": "The three categories of interviewees chosen in the meeting."
+        },
+        {
+          "title": "Customer Discovery Interviews",
+          "category": "Concepts",
+          "description": "The meeting plan to interview target customers to learn their pain points rather than sell."
+        }
+      ],
+      "sha256": "f93290bf434208c565d966e4019d69713def5c6891d54bf7dff6980d19970171",
+      "ingested": "2026-09-28"
+    }
+  },
+  "pages": {
+    "Chemical R&D Pain Points": {
+      "category": "Concepts",
+      "summary": "Hypothesized pain points in chemistry and materials R&D revolve around slow characterization processes, the high cost associated with lab time, and the need for stronger feedback loops between theory and experiments. These issues affect various groups, including established R&D teams, resource-constrained startups, and raw-material vendors. The goal is to validate these pain points through customer interviews.",
+      "source_ids": [
+        "src-dtcs"
+      ],
+      "path": "wiki/Concepts/Chemical R&D Pain Points.md"
+    },
+    "Customer Discovery Interviews": {
+      "category": "Concepts",
+      "summary": "Customer discovery interviews are designed to learn about a customer's current processes and pain points rather than attempting to sell a product. The process involves conducting multiple interviews across different segments to compare pain severity, current workflows, and willingness to pay. Key principles emphasize understanding the customer's existing challenges, such as slow characterization cycles or limited expertise.",
+      "source_ids": [
+        "src-dtcs",
+        "src-dt",
+        "src-ga"
+      ],
+      "path": "wiki/Concepts/Customer Discovery Interviews.md"
+    },
+    "DTCS": {
+      "category": "Projects",
+      "summary": "DTCS is a digital twin designed for chemical science that integrates computational chemistry, spectroscopy simulations, experimental data, and AI optimization. Its purpose is to help interpret spectra and infer reaction mechanisms, thereby speeding up chemical understanding. The product aims to reduce experimental iteration and the use of scarce characterization resources.",
+      "source_ids": [
+        "src-dtcs"
+      ],
+      "path": "wiki/Projects/DTCS.md"
+    },
+    "Digital Twins in Manufacturing": {
+      "category": "Concepts",
+      "summary": "Digital Twins aim to connect virtual models with physical manufacturing processes to solve the issue of siloed experimentation and simulation. This technology is particularly valuable for early prediction, in-process adjustment, and post-analysis by enabling virtual and physical systems to run synchronously and calibrate each other. The application is currently focused on chemical processes, offering benefits like reducing time and trial-and-error costs in manufacturing.",
+      "source_ids": [
+        "src-dt"
+      ],
+      "path": "wiki/Concepts/Digital Twins in Manufacturing.md"
+    },
+    "Early Adopter Markets": {
+      "category": "Concepts",
+      "summary": "Early adoption efforts should focus on smaller-scale, flexible applications and specific institutional partners who are more willing to test innovative technologies. Conversely, highly critical or large-scale markets, such as hospitals or space applications, require an established track record before adoption is feasible. Initial market entry should prioritize validation through small-scale pilots and third-party verification.",
+      "source_ids": [
+        "src-ga"
+      ],
+      "path": "wiki/Concepts/Early Adopter Markets.md"
+    },
+    "Financeable Energy Technology": {
+      "category": "Concepts",
+      "summary": "For energy technologies to gain investor and customer backing, they must provide quantified metrics, demonstrate reliability through real-world data, and adopt a phased financing approach. Key areas of focus include proving cost-effectiveness, validating performance via third-party testing, and targeting early adopters with smaller-scale pilots.",
+      "source_ids": [
+        "src-ga"
+      ],
+      "path": "wiki/Concepts/Financeable Energy Technology.md"
+    },
+    "General Alpha": {
+      "category": "Projects",
+      "summary": "The General Alpha project should initially focus on smaller, flexible power solutions for remote or specialized industrial applications rather than large-scale deployments. Key risks involve high adoption barriers in critical areas and the need for third-party validation to build trust. Next steps involve targeting early adopters and securing phased financing through various partnerships.",
+      "source_ids": [
+        "src-ga"
+      ],
+      "path": "wiki/Projects/General Alpha.md"
+    },
+    "Real-World Validation": {
+      "category": "Concepts",
+      "summary": "Proving technology value requires moving beyond models by validating results through real-world physical experiments and third-party reports. This verification process is necessary because model predictions alone are insufficient for establishing true credibility. The goal is to achieve a continuous alignment between virtual simulations and physical reality.",
+      "source_ids": [
+        "src-ga",
+        "src-dt"
+      ],
+      "path": "wiki/Concepts/Real-World Validation.md"
+    },
+    "Target Customer Segments": {
+      "category": "Concepts",
+      "summary": "DTCS plans to interview three distinct customer segments to compare pain severity, workflow, and willingness to pay. These segments are Big Tech/Established R&D, resource-constrained startups, and raw-material vendors. The interviews aim to understand current pain points rather than selling the product.",
+      "source_ids": [
+        "src-dtcs",
+        "src-dt"
+      ],
+      "path": "wiki/Concepts/Target Customer Segments.md"
+    },
+    "DTCS Customer Discovery Deck": {
+      "category": "Sources",
+      "summary": "A five-slide deck for DTCS (Digital Twin for Chemical Science) presenting the product concept, three hypothesized customer segments and their pain points, a skinny business model canvas, an iteration reflection, and a plan for the next six customer interviews.",
+      "source_ids": [
+        "src-dtcs"
+      ],
+      "path": "wiki/Sources/DTCS Customer Discovery Deck.md"
+    },
+    "General Alpha Interview Notes": {
+      "category": "Sources",
+      "summary": "Findings from a customer interview about go-to-market strategy for General Alpha, a compact energy technology startup: product scale, best-fit and deferred markets, commercialization, validation metrics, key risks, and next steps. It also contains draft interview questions for a finance advisor, a commercialization advisor, and the founder of a space-industry startup.",
+      "source_ids": [
+        "src-ga"
+      ],
+      "path": "wiki/Sources/General Alpha Interview Notes.md"
+    },
+    "Digital Twin Meeting Notes": {
+      "category": "Sources",
+      "summary": "Chinese-language summary of a meeting on applying digital twins in manufacturing: connecting virtual models with physical experiments, case examples from consumer electronics, semiconductors, and injection molding, the current focus on chemical processes, and the plan for upcoming customer interviews.",
+      "source_ids": [
+        "src-dt"
+      ],
+      "path": "wiki/Sources/Digital Twin Meeting Notes.md"
+    }
+  }
+}
