@@ -82,7 +82,7 @@ brew install ollama
 brew services start ollama
 ollama pull gemma4:e4b
 ollama pull embeddinggemma
-git clone <this repo> && cd <repo>
+git clone https://github.com/MinjunZang/personal-wiki-local-gemma.git && cd personal-wiki-local-gemma
 python3 -m venv .venv
 .venv/bin/pip install python-docx==1.2.0 python-pptx==1.0.2 rank-bm25==0.2.2 numpy
 chmod +x wiki
