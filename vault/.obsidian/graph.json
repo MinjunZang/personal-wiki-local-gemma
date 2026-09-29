@@ -7,9 +7,27 @@
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
-    {"query": "path:wiki/Projects", "color": {"a": 1, "rgb": 14701138}},
-    {"query": "path:wiki/Concepts", "color": {"a": 1, "rgb": 5431473}},
-    {"query": "path:wiki/Sources", "color": {"a": 1, "rgb": 11657298}}
+    {
+      "query": "path:wiki/Projects",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:wiki/Concepts",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:wiki/Sources",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
   ],
   "collapse-display": false,
   "showArrow": false,
@@ -21,5 +39,6 @@
   "repelStrength": 12,
   "linkStrength": 1,
   "linkDistance": 180,
-  "scale": 1
+  "scale": 1.4275107570355512,
+  "close": true
 }
